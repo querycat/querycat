@@ -15,11 +15,17 @@ Atualmente, estou direcionando minha carreira para Cibersegurança, ampliando me
 
 #### [Cibersegurança](https://github.com/stars/querycat/lists/cybersecurity)
 
-
-
-
 ## ✨👩🏻‍🦰 Um pouco mais sobre mim
 
 Tenho 27 anos, sou vegetariana, gamer, fã de terror e mistério, fã do Studio Ghibli e Sanrio, musicalmente eclética e nascida no lugar mais lindo do mundo, o Rio de janeiro, claro.
 
 [Linkedin](https://www.linkedin.com/in/maysa-pereira/)
+
+
+## 📊 GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=querycat&theme=ocean_dark&animation=draw&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=querycat&theme=ocean_dark&animation=draw&exclude=html%2C+css%2C+md&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=querycat&theme=ocean_dark&animation=draw&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=querycat&theme=ocean_dark&animation=draw&timeZone=S%C3%A3o+Paulo&bg_color=000000)
+
