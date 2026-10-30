@@ -24,8 +24,12 @@ Tenho 27 anos, sou vegetariana, gamer, fã de terror e mistério, fã do Studio 
 
 ## 📊 GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=querycat&theme=ocean_dark&animation=draw&bg_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=querycat&theme=ocean_dark&animation=draw&exclude=html%2C+css%2C+md&bg_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=querycat&theme=ocean_dark&animation=draw&bg_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=querycat&theme=ocean_dark&animation=draw&timeZone=S%C3%A3o+Paulo&bg_color=000000)
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=querycat&theme=ocean_dark&animation=draw&bg_color=000000"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=querycat&theme=ocean_dark&animation=draw&exclude=html%2C+css%2C+md&bg_color=000000"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=querycat&theme=ocean_dark&animation=draw&bg_color=000000"/>
+</p>
+
 
